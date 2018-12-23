@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "47939957303",
+    "firebase_url": "https://squawker-df87d.firebaseio.com",
+    "project_id": "squawker-df87d",
+    "storage_bucket": "squawker-df87d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47939957303:android:3345804a39540d3f",
+        "android_client_info": {
+          "package_name": "android.example.com.squawker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47939957303-a838ocucsauek6ksi8ev30raartis0qn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "android.example.com.squawker",
+            "certificate_hash": "acbe170b11cbbc2cc9386389077c8da93481bc20"
+          }
+        },
+        {
+          "client_id": "47939957303-90pdlf7atm6ct0k5ljagv706p1fis4bl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrFI4S0IlF8tjmE6gphPFEPUgwCt_kxXk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47939957303-90pdlf7atm6ct0k5ljagv706p1fis4bl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47939957303:android:5528724f521f7613",
+        "android_client_info": {
+          "package_name": "com.example.aisyah.squawker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47939957303-90pdlf7atm6ct0k5ljagv706p1fis4bl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrFI4S0IlF8tjmE6gphPFEPUgwCt_kxXk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

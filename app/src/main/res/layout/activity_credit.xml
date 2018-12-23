@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_credit"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg6"
+    tools:context="com.example.aisyah.squawker.CreditAct">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
+        android:layout_marginTop="30dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/oleh"
+            android:text="Oleh TI-4F : "
+            android:textColor="#000000"
+            android:textSize="20dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/by"
+            android:text="Bebby Agusta    1541180034"
+            android:textColor="#000000"
+            android:textSize="15dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/rt"
+            android:text="Aisyah Novrita   1541180040"
+            android:textColor="#000000"
+            android:textSize="15dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/source"
+            android:text="Source"
+            android:textColor="#000000"
+            android:layout_marginTop="30dp"
+            android:textSize="20dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/aa"
+            android:text="https://www.instagram.com/princess_fazion/"
+            android:textColor="#000000"
+            android:textSize="15dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/bb"
+            android:text="https://stackoverflow.com/questions/5486789/how-do-i-make-a-splash-screen"
+            android:textColor="#000000"
+            android:textSize="15dp"/>
+
+
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/back"
+            android:layout_marginTop="100dp"
+            android:text="Back"/>
+    </LinearLayout>
+
+</RelativeLayout>
